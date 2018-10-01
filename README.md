@@ -6,4 +6,4 @@
 
 ### Printing files
 - Files come in a format that needs to be opened in the makerbot desktop program (available on FabLab computers) and exported from there
-- When you export, be sure to export as non + files. To do this go to settings -> exturder, and not +
+- When you export, be sure to export as extruder+ files. To do this go to settings -> exturder+
